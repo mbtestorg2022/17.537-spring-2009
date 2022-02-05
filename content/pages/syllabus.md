@@ -41,19 +41,74 @@ Reading, attendance and participation are required of all students. Additional r
 
 ### Undergraduates
 
-| ASSIGNMENTS |
-| --- |
-| Paper (5-7 pages) on an issue chosen from weekly discussion topics |
-| Book report (5-7 pages) on a book chosen from the list on the syllabus |
-| Midterm |
-| Final exam 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper (5-7 pages) on an issue chosen from weekly discussion topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Book report (5-7 pages) on a book chosen from the list on the syllabus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Special discussion sessions for undergraduates are also required.
 
 ### Graduate Students
 
-| ASSIGNMENTS |
-| --- |
-| Classroom presentation |
-| Synthetic paper (10-15 pages) on Japanese politics |
-| Synthetic paper (10-15 pages) on public policy
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Synthetic paper (10-15 pages) on Japanese politics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Synthetic paper (10-15 pages) on public policy
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
