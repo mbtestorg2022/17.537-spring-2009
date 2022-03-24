@@ -205,7 +205,7 @@ The liberal democratic party
 
  \[Logic\] Chapter 5
 
-Krauss, Ellis S., and Robert Pekkanen. "Explaining Party Adaptation to Electoral Reform: TheDiscreet Charm of the LDP?" _Journal of Japanese Studies_ 30, no. 1 (Winter 2004): 1-34. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/journal_of_japanese_studies/v030/30.1krauss.pdf))
+Krauss, Ellis S., and Robert Pekkanen. "Explaining Party Adaptation to Electoral Reform: TheDiscreet Charm of the LDP?" _Journal of Japanese Studies_ 30, no. 1 (Winter 2004): 1-34. ([PDF](http://muse.jhu.edu/journals/journal_of_japanese_studies/v030/30.1krauss.pdf))
 
 Ramseyer, J. Mark, and Frances McCall Rosenbluth. _Japan's Political Marketplace_. Cambridge, MA: Harvard University Press, 1993, chapters 4 and 5. ISBN: 9780674472815.
 
